@@ -45,4 +45,4 @@ steps:
       !**\*TestAdapter.dll
       !**\obj\**
     searchFolder: '$(System.DefaultWorkingDirectory)'
-    runSettingsFile: '$(System.DefaultWorkingDirectory)/_bmi-WebUI-CI/drop/SeleniumTest.runsettings'
+    runSettingsFile: '$(System.DefaultWorkingDirectory)/SeleniumTest.runsettings'
